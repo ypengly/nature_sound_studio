@@ -1,0 +1,8 @@
+{
+  "Cozy Rain": {"Rain": 0.8, "Storm": 0.05},
+  "Deep Sleep": {"Rain": 0.6, "Wind": 0.2, "Night": 0.1},
+  "Forest Morning": {"Forest": 0.7, "Birds": 0.35, "Wind": 0.15, "River": 0.25},
+  "Peaceful Ocean": {"Ocean": 0.85, "Wind": 0.2},
+  "Heavy Storm": {"Storm": 0.8, "Wind": 0.4},
+  "Cozy Fireplace": {"Fireplace": 0.9, "Room": 0.2, "Rain": 0.25}
+}
